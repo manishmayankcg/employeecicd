@@ -11,7 +11,7 @@
 
         <semantic:titleHeading>
             <Title
-                text="{i18n>worklistTitle}"
+                text="New Title"
                 level="H2"/>
         </semantic:titleHeading>
 
